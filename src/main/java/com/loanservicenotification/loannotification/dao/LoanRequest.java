@@ -1,5 +1,8 @@
 package com.loanservicenotification.loannotification.dao;
 
+//import org.springframework.stereotype.Component;
+//
+//@Component
 public class LoanRequest {
 
     private Integer Id;
